@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kamalthapalia
-- 👀 I’m interested in web development maybe
+- 👀 I’m interested in web development fr
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on react js
 - 📫 How to reach me @kamalthapalia
